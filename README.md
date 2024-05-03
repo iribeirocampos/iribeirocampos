@@ -2,7 +2,6 @@
 
 - 🤔 Eager to learn new skills.
 - 🎓 Studying Software Engineer at [Instituo Superior Técnico](https://tecnico.ulisboa.pt/).
-- 💼 Working as a freelancer for ACFUTURES.
 
 
 ## My Skills
