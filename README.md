@@ -1,7 +1,7 @@
 ## About me
 
 - 🤔 Eager to learn new skills.
-- 🎓 Studying Software Engineer at [Instituo Superior Técnico](https://tecnico.ulisboa.pt/).
+- 🎓 Studying Software Engineer at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/).
 
 
 ## My Skills
