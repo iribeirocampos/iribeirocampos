@@ -74,6 +74,6 @@
 
 ## Where to find me
 [![Linkedin](https://img.shields.io/badge/-Iuri_Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuri-campos-b2b5a525/)](https://www.linkedin.com/in/iuri-campos-b2b5a525/)
-[![Gmail Badge](https://img.shields.io/badge/-iribeirocampos@email.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iribeirocampos@gmail.com)](mailto:iribeirocampos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-iribeirocampos@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iribeirocampos@gmail.com)](mailto:iribeirocampos@gmail.com)
 <br>
 ![](https://komarev.com/ghpvc/?username=iribeirocampos&color=006bed)
