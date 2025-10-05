@@ -71,8 +71,5 @@
     </td>
   </tr>
 </table>
-
-## Where to find me
-[![Linkedin](https://img.shields.io/badge/-Iuri_Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuri-campos-b2b5a525/)](https://www.linkedin.com/in/iuri-campos-b2b5a525/)
 <br>
 ![](https://komarev.com/ghpvc/?username=iribeirocampos&color=006bed)
