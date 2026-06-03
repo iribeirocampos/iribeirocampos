@@ -46,8 +46,6 @@
 
 ### ⚙️ GitHub Analytics
 
-## 📊 GitHub Stats
-
 <table>
   <tr>
     <td>
